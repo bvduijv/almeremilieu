@@ -1,0 +1,8 @@
+{
+  "domain": "almeremilieu",
+  "name": "Almere Afvalkalender (garbage collection) sensor for Home Assistant",
+  "documentation": "https://github.com/bvduijv/almeremilieu/blob/master/README.md",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}
