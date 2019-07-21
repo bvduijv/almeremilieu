@@ -1,0 +1,1 @@
+"""Almeremilieu garbage collection sensor"""
